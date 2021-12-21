@@ -1,6 +1,7 @@
 ### Olá, sou Leonardo Mendes Monteiro 👋
 #### Sobre mim 
 . :books:Cursando Análise e Desenvolvimento de Sistema 2° - IFPBCZ
+
 . :mortar_board:Técnico em informática - IFPBCZ
 
 <!--
