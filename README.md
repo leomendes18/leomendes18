@@ -1,5 +1,6 @@
 ### Olá, sou Leonardo Mendes Monteiro 👋
-#### Sobre mim 
+#### Sobre mim
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
 . :books:Cursando Análise e Desenvolvimento de Sistema 2° - IFPBCZ
 
 . :mortar_board:Técnico em informática - IFPBCZ
