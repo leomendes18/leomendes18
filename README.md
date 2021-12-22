@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="widht:100px; height:20px;"/> 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-thebadge&logo=html5&logoColor=white" style="widht:60px; height:20px;"/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" style="widht:60px; height:20px;"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="widht:100px; height:20px;"/>
 
 <!--
 **leomendes18/leomendes18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
