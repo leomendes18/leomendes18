@@ -7,6 +7,8 @@
 . :books:Cursando Análise e Desenvolvimento de Sistema 2° - IFPBCZ
 
 . :mortar_board:Técnico em informática - IFPBCZ
+### Tecnologia e ferramentas que já usei 
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
 
 <!--
 **leomendes18/leomendes18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
