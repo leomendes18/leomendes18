@@ -8,7 +8,7 @@
 
 . :mortar_board:Técnico em informática - IFPBCZ
 ### Tecnologia e ferramentas que já usei 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="width:40px; height:20px;"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="widht:80px; height:20px;"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="width:40px; height:20px;"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="widht:100px; height:20px;"/>
 
 <!--
 **leomendes18/leomendes18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
