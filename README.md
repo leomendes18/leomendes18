@@ -1,6 +1,6 @@
 ### Olá, sou Leonardo Mendes Monteiro 👋
 [![github](https://camo.githubusercontent.com/892a2610d555673177022116e3bb01ff94557ddb4a872b703844692a0c327d10/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3030303f7374796c653d666c61742d737175617265266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6769746875622e636f6d2f7061756c6f667265697461736e74)](https://github.com/leomendes18)
-<div style="width:80px; height:20px;">
+<div style="width:50px; height:10px;">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </div>
 
